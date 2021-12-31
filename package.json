@@ -1,0 +1,11 @@
+{
+  "name": "html-css-cv-demo-master-2",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <h1 align=\"center\">Oh, So Simple HTML CV!</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
